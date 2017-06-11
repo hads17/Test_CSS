@@ -1,0 +1,111 @@
+body {
+	font-size: 24px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	background: #000080;
+}
+
+#topbar {
+	background: #FF0000;
+	margin-top: 0px;
+	padding: 30px;
+	border: groove;
+	border-color: pink;
+	border-width: 5px;
+	overflow: auto;
+}
+#header {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	text-align: center;
+}
+
+#redpanda {
+	width: 150px;
+	height: 150px;
+}
+
+#floatleft {
+	float: left;
+	position: ;
+}
+
+#floatright {
+	float: right;
+}
+
+#section1 {
+	float: left;
+	background: white;
+	border: groove;
+	border-color: pink;
+	padding: 75px 50px 75px 50px;
+	width: 27%;
+	margin-top: 15px;
+}
+
+.section {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#section2 {
+	position: relative;
+	background: white;
+	border: groove;
+	border-color: pink;
+	padding: 75px 50px 75px 50px;
+	width: 27%;
+	margin-top: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+ #section3 {
+ 	position: relative;
+ 	float: right;
+	background: white;
+	border: groove;
+	border-color: pink;
+	padding: 75px 50px 75px 50px;
+	width: 27%;
+	margin-top: 15px;
+ }
+
+ #box1 {
+ 	position: absolute;
+ 	top: 42px;
+ 	left: 420px;
+ 	border-style: solid;
+ 	border-color: #000080;
+ 	border-width: 10px;
+ 	padding: 50px;
+
+ }
+
+  #box2 {
+ 	position: absolute;
+ 	top: 42px;
+ 	right: 420px;
+ 	border-style: solid;
+ 	border-color: #000080;
+ 	border-width: 10px;
+ 	padding: 50px;
+ }
+
+ #box3 {
+ 	position: absolute;
+ 	top: 142px;
+ 	right: 872px;
+ 	border-style: solid;
+ 	border-color: #000080;
+ 	border-width: 10px;
+ 	padding: 10px;
+ }
+
+  #box4 {
+ 	position: absolute;
+ 	top: 19px;
+ 	right: 872px;
+ 	border-style: solid;
+ 	border-color: #000080;
+ 	border-width: 10px;
+ 	padding: 10px;
+ }
